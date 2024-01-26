@@ -11,8 +11,8 @@ function App() {
       <h2>Rikkei Academy</h2>
       <ChildClass studentName="Nguyễn Viết Đạt">Là fan MU</ChildClass>
       <ChildFunction studentName="Nguyễn Viết Đạt">Thích đá FIFA</ChildFunction>
-      <StateDemo></StateDemo>
-      <EventDemo></EventDemo>
+      <StateDemo />
+      <EventDemo />
     </div>
   );
 }
